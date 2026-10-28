@@ -1,0 +1,1 @@
+No scan has run yet. Run the GitHub Actions workflow to generate reports.
